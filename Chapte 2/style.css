@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.red{
+    background: red;
+    color: azure;
+    height: 100px;
+}
+
+.green{
+    background-color: green;
+    color: blanchedalmond;
+}
